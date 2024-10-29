@@ -105,3 +105,32 @@ Where:
 $$\mu_A = \frac{W_A}{q}$$
 
 When $\mu_A$ is electric potential (V) at position A, $W_A$ is work (measured in Joules or J) required to move q charges (C) from a reference position to A
+
+
+## 2.2 Voltage and Current
+
+
+### 2.2.1 Voltage
+
+
+- The `electric potential difference` between two points A and B or *voltage between A and B* (denoted as $V_{AB}$) in an electric field is the energy required to move one Coulomb `(+)` charge from B to A
+
+
+$$V_{AB} = \mu_A - \mu_B = \frac{W_A}{q} - \frac{W_B}{q} = \frac{W_A - W_B}{q}$$
+
+$$V_{AB} = \frac{W_{B \rightarrow A}}{q}$$
+
+
+- $W_{B \rightarrow A}$ is `work` (J) required to move q charges (C) from point **B** to point **A**
+- The unit of voltage is volt (V)
+
+> [!NOTE]
+> - `(+)` charges always move from high to low potential and vice versa
+
+
+<p align="center">
+  <IMG src="./assets/w1-electrical_quantities/example12.png" alt="voltage sources" width=80%/>
+</p>
+
+
+
