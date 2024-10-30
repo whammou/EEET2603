@@ -95,16 +95,16 @@ Where:
 
 
 - Electric field has **potential nature**
-- `Electric potential` (denoted as $\mu$) at a position if an electric field is the work (energy) needed to carry one Coulomb positive charge from a reference position to that position
+- `Electric potential` (denoted as $\Phi$) at a position if an electric field is the work (energy) needed to carry one Coulomb positive charge from a reference position to that position
 
 > [!NOTE]
 > - Earth is often chosen as the reference postition
 
 - `Electric potential` is measured in **Volts (V)**
 
-$$\mu_A = \frac{W_A}{q}$$
+$$\Phi_A = \frac{W_A}{q}$$
 
-When $\mu_A$ is electric potential (V) at position A, $W_A$ is work (measured in Joules or J) required to move q charges (C) from a reference position to A
+When $\Phi_A$ is electric potential (V) at position A, $W_A$ is work (measured in Joules or J) required to move q charges (C) from a reference position to A
 
 
 ## 2.2 Voltage and Current
@@ -115,8 +115,7 @@ When $\mu_A$ is electric potential (V) at position A, $W_A$ is work (measured in
 
 - The `electric potential difference` between two points A and B or *voltage between A and B* (denoted as $V_{AB}$) in an electric field is the energy required to move one Coulomb `(+)` charge from B to A
 
-
-$$V_{AB} = \mu_A - \mu_B = \frac{W_A}{q} - \frac{W_B}{q} = \frac{W_A - W_B}{q}$$
+$$V_{AB} = \Phi_A - \Phi_B = \frac{W_A}{q} - \frac{W_B}{q} = \frac{W_A - W_B}{q}$$
 
 $$V_{AB} = \frac{W_{B \rightarrow A}}{q}$$
 
@@ -132,5 +131,68 @@ $$V_{AB} = \frac{W_{B \rightarrow A}}{q}$$
   <IMG src="./assets/w1-electrical_quantities/example12.png" alt="voltage sources" width=80%/>
 </p>
 
+
+### 2.2.2 Current
+
+
+- `Electric current` is the flow of charges
+- `Electric current` in a wire is measured as rate change of the total charge across the wire's cross-section area over time:
+
+$$I = \frac{Q}{t} \text{ or } I = \frac{\Delta Q}{\Delta t}$$
+
+Where:
+  - **I** is the `current` in **Ampere (A)**
+  - **Q** is the `charges` in **Coulomb (C)**
+  - **t** is `time` in **second (s)**
+
+- Whenever there is potential difference *(voltage)*, there will be a flow of charges `=>` *Voltage creates Current*
+- **By convention, current is the flow of `(+)` charges**
+- In circuits, current flows from `(+)` through devices to `(-)` terminals of the voltage source
+
+> [!NOTE]
+> A **DC** `current`: flow in a fixed direction over time. If the current direction alternates over time `=>` **AC** current
+> A **DC** `voltage`: potential difference (between two terminals/points) is constant over time
+> If the potential difference alternates over time `=>` **AC** `voltage`
+
+
+## 2.3 Electrical Resistance
+
+
+- The amount that an object impedes the `electric current` running through it is called **electrical resistance**
+- Factors affecting electrical resistance of an object:
+  - Dimension
+  - Material
+  - Temperature
+- The unit of resistance is **Ohm** ($\Omega$)
+
+
+### 2.3.1 Resistance of an electrical wire
+
+
+- The electrical resistance of an electrical wire:
+
+
+<p align="center">
+  <IMG src="./assets/w1-electrical_quantities/example13.png" alt="resistance in wire" width=80%/>
+</p>
+
+
+$$R = \phi \frac{L}{A}$$
+
+Where:
+- **L** is the wire length in **meters (m)**
+- **A** is the wire' cross section area in **square meters** ($m^2$)
+- $\textbf(\phi)$ is the material resistivity in **Ohm.meter** ($\Omega m$)
+
+> [!NOTE]
+> The resistivity of material varies temperatures
+
+
+### 2.3.2 Material Resistivity
+
+
+<p align="center">
+  <IMG src="./assets/w1-electrical_quantities/example14.png" alt="resistivity" width=80%/>
+</p>
 
 
