@@ -35,4 +35,10 @@ $$W = \int P \times t$$
 
 or $E = P \times t$ if P = const
 
+> [!IMPORTANT]
+> Unit of electrical energy: Joules (J)
+>
+> $$1 Joule = 1 Watt \times 1 second$$
+
+
 
