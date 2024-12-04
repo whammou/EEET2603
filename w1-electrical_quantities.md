@@ -26,7 +26,6 @@
   <IMG src="./assets/w1-electrical_quantities/exmaple01.png" alt="Unit system" width=80%/>
 </p>
 
-![test](./assets/w1-electrical_quantities/exmaple01.png)
 
 > [!NOTE]
 > This course uses **The SI unit measurement system**
