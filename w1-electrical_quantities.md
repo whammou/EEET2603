@@ -134,7 +134,8 @@ $$V_{AB} = \frac{W_{B \rightarrow A}}{q}$$
 
 ### 2.2.2 Current
 
-- [electric-current@physics](https://github.com/whammou/OENG1209/blob/main/w9-magnetic.md#electric-current)
+- Visit electric-current [note](../../physics/OENG1209/w9-magnetic.md#electric-current) [github](https://github.com/whammou/OENG1209/blob/main/w9-magnetic.md#electric-current)
+
 - `Electric current` is the flow of charges
 - `Electric current` in a wire is measured as rate change of the total charge across the wire's cross-section area over time:
 

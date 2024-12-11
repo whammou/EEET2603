@@ -3,7 +3,7 @@
 
 Book: [Introductory Circuit Analysis](/server/archive/circuits/introductory.epub)
 
-## 0. Electric Energy Conversion
+## 1.0 Electric Energy Conversion
 
 *"The first law of thermodynamics state that. Energy can neither be created nor destroyed, it can only be transformed from one to another"*
 
@@ -13,7 +13,7 @@ Book: [Introductory Circuit Analysis](/server/archive/circuits/introductory.epub
   - [Mechanical](https://www.youtube.com/watch?v=WV2gul2SQNc)
 
 
-## 1. Electrical Power
+## 1.1 Electrical Power
 
 
 - Electrical power (P) is the rate of change in electric energy respected to time
@@ -38,7 +38,7 @@ $$P = \frac{W}{t} \text{ if } P = \text{ const }$$
 $$1 \text{ Watt } = \frac{1 \text{Joule}}{1 \text{second}} = 1 \text{Volt} \cdot 1 \text{Ampere}$$
 
 
-## 2. Electric Energy
+## 1.2 Electric Energy
 
 
 - Electric energy (E or W) is the electric power consumed or generated over a period of time
@@ -53,7 +53,7 @@ or $E = P \times t$ if P = const
 > $$1 Joule = 1 Watt \times 1 second$$
 
 
-## 3. Power efficiency
+## 1.3 Power efficiency
 
 
 Power efficiency (also called energy transfer efficiency) is ratio of power output to power input of the system/device
@@ -65,7 +65,9 @@ The higher the power efficiency, the better (less wasted energy)
 # 2. Resistor
 
 
-Visit [Ohm's law](#ohms-law)
+Visit [Ohm's law](#3-ohms-law)
+Extra notes: [Different Types of Resistor](#51-different-types-of-resistor)
+
 A resistor is often made of conducting materials with high resistivity *carbon film, nichrome, a copper-nickel-manganese*
 
 Resistor are produced with value varying from **milliohm** (e.g. 0.0002 $\Omega$) to several **tera-ohm** (e.g. 5T $\Omega$ - $10^12 \Omega$)
@@ -105,7 +107,7 @@ Resistor are produced with value varying from **milliohm** (e.g. 0.0002 $\Omega$
 > 6. Circuits
 
 
-## Power and Energy consumption
+## 2.2 Power and Energy consumption
 
 
 - `Resistor` convert electricity power into heat
@@ -122,7 +124,7 @@ $$P = VI = \frac{V^2}{R} = I^{2}R$$
    - Energy (J) is consumed by the resistor over t (seconds) of time
 
 
-## Characteristic
+## 2.3 Characteristic
 
 
 Resistors are characterized by:
@@ -136,10 +138,11 @@ Resistors are characterized by:
 </p>
 
 
-# Ohm's Law
+# 3. Ohm's Law
 
- 
-Visit [Ohm's Law@OENG1205](../../physics/OENG1209/w9-magnetic.md#ohms-law)
+> [!TIP] 
+> Visit [Ohm's Law@OENG1205](../../physics/OENG1209/w9-magnetic.md#ohms-law)
+> Visit [Mechanical circuits](https://youtube.com/watch?v=QrkiJZKJfpY)
 
 Ohm's law states that:
 
@@ -160,16 +163,28 @@ $$I = \frac{V}{R}$$
 An object following ohm's law is made of `ohmic material`
 
 
-# Summary
+# 4. Summary
 
 
 - Electric energy conversion: Light, Heat, mechanical
 - Electric power of a device: [^1] $P = V \times I$
 - Electric energy of a device: [^3] $E = P \times t$
 - Resistor:
-  - Follow [Ohm's law](#ohms-law): [^4] $I = \frac{V}{R}$
+  - Follow [Ohm's law](#3-ohms-law): [^4] $I = \frac{V}{R}$
   - convert electric energy into heat: [^4] $P = RI^2 = \frac{V^2}{R}$
   - Present in component in most of electrical and electronic circuits
 
 
-# Footnote
+# 5. Glossary
+
+
+## 5.1 Different Types of Resistor
+
+
+1. **Insulator:** don't let electrons/charges flow through - an insulator acts like rubber between two oppositely charged plates
+2. **Conductor:** opposite of `insulator`, it allows electrons to flow through easily
+3. **Capacitor:** two oppositely charged plated that are kept apart by space
+
+
+# 6. Footnote
+
