@@ -215,3 +215,9 @@ $$R_T = R_{ab] = R_1 + R_2 + \cdots + R_N}$$
 
 # Footnote
 
+<p align="center">
+  <IMG src="./assets/w3-kirchhoffs_law/test.svg" alt="test" width=80%/>
+</p>
+
+
+
