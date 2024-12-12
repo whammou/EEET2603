@@ -95,7 +95,29 @@ A circuit `loop` is a collection of `branches` that form a ***closed path*** - r
   - The **algebraic sum** $\sum$ of `voltages` around a `loop` is ***zero***
   - In a `loop`, for certain direction:
 
-  $$\sum voltage rise - \sum voltage drop = 0$$
+   [^1] *Kirchhoff's law*
+   [^1]:Kirchhoff's law
+
+    $$\sum voltage rise - \sum voltage drop = 0$$
 
   - **Voltage rise:** Electrical potential (respect to ground) changes from `(-)` to `(+)`
   - **Voltage drop:** Electrical potential (respect to ground) changes from `(+)` to `(-)`
+
+
+> [!TIP]
+> To apply KVL:
+> - Select the `loop` and assume a ***direction*** (e.g. Clockwise)
+> - Identify or assume all devices' `voltage polarity`
+> - Write the KVL:
+>   
+>     $$E - V_1 - V_2 = 0$$
+
+
+## Kirchhoff's Current Law (KCL)
+
+
+
+
+
+# Footnote
+
