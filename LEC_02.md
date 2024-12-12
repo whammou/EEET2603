@@ -3,6 +3,29 @@
 
 - **Reference:** [Introductory Circuit Analysis](/server/archive/circuits/introductory.epub)
 
+
+<details>
+  <summary><b>Table of Contents</b></summary>
+
+  - [Lecture 2 - Power Energy Resistor and Ohm's Law](#lecture-2---power-energy-resistor-and-ohms-law)
+    - [0. Electric Energy Conversion](#0-electric-energy-conversion)
+    - [1. Power & Energy](#1-power--energy)
+      - [1.1 Electrical Power](#11-electrical-power)
+      - [1.2 Electric Energy](#12-electric-energy)
+      - [1.3 Power efficiency](#13-power-efficiency)
+    - [2. Resistor](#2-resistor)
+      - [2.1 Working mechanism](#21-working-mechanism)
+      - [2.2 Power and Energy consumption](#22-power-and-energy-consumption)
+      - [2.3 Characteristic](#23-characteristic)
+    - [3. Ohm's Law](#3-ohms-law)
+  - [Summary](#summary)
+  - [Glossary](#glossary)
+    - [Different Types of Resistor](#different-types-of-resistor)
+  - [Footnote](#footnote)
+
+</details>
+
+
 ## 0. Electric Energy Conversion
 
 *"The first law of thermodynamics state that. Energy can neither be created nor destroyed, it can only be transformed from one to another"*

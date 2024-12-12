@@ -14,6 +14,11 @@ Introduce to the course with the course learning outcome, topics to be covered, 
 
 Study the main electrical concepts and practical use of electrical components
 
+*** TODO Insert Toc
+DEADLINE: <2024-12-13 Fri 00:30>
+
+- *Goal(s):* insert toc to lecture
+
 ** Lecture 3: Electrical Circuit and Kirchhoff's Laws
 
 [[./LEC_03.md][Lecture Note]]

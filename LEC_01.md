@@ -1,6 +1,29 @@
 # Lecture 1 - Electrical Quantities
 
 
+<details>
+  <summary><b>Table of Contents</b></summary>
+
+  - [Lecture 1 - Electrical Quantities](#lecture-1---electrical-quantities)
+    - [0. Units of Measurement](#0-units-of-measurement)
+    - [1. Electrical Quantities](#1-electrical-quantities)
+      - [1.1 Atom and Electric charge](#11-atom-and-electric-charge)
+        - [1.1.1 Atomic structure](#111-atomic-structure)
+        - [1.1.2 Electrical Charges](#112-electrical-charges)
+          - [1.1.2.1 Electric Field](#1121-electric-field)
+          - [1.1.2.2 Electric Force](#1122-electric-force)
+          - [1.1.2.3 Electric Potential](#1123-electric-potential)
+      - [1.2 Voltage and Current](#12-voltage-and-current)
+        - [1.2.1 Voltage](#121-voltage)
+        - [1.2.2 Current](#122-current)
+      - [1.3 Electrical Resistance](#13-electrical-resistance)
+        - [1.3.1 Resistance of an electrical wire](#131-resistance-of-an-electrical-wire)
+        - [1.3.2 Material Resistivity](#132-material-resistivity)
+  - [Footnote](#footnote)
+
+</details>
+
+
 ## 0. Units of Measurement
 
 
@@ -196,4 +219,6 @@ Where:
   <IMG src="./assets/LEC_01/LEC_232_1.png" alt="resistivity" width=80%/>
 </p>
 
+
+# Footnote
 
