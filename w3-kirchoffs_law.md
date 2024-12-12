@@ -40,7 +40,7 @@
 
 
 <p align="center">
-  <IMG src="./assets/w3-kirchhoffs_law/example11.png" alt="circuit" width=80%/>
+  <IMG src="./assets/w3-kirchhoffs_law/LEC_1_1.png" alt="circuit" width=80%/>
 </p>
 
 
@@ -53,7 +53,7 @@
 
 
 <p align="center">
-  <IMG src="./assets/w3-kirchhoffs_law/example12.png" alt="electrical device" width=80%/>
+  <IMG src="./assets/w3-kirchhoffs_law/LEC_11_1.png" alt="electrical device" width=80%/>
 </p>
 
 
@@ -66,7 +66,7 @@
 
 
 <p align="center">
-  <IMG src="./assets/w3-kirchhoffs_law/example13.png" alt="sources" width=80%/>
+  <IMG src="./assets/w3-kirchhoffs_law/LEC_111_1.png" alt="sources" width=80%/>
 </p>
 
 
@@ -89,7 +89,7 @@
 
 
 <p align="center">
-  <IMG src="./assets/w3-kirchhoffs_law/example14.png" alt="node" width=80%/>
+  <IMG src="./assets/w3-kirchhoffs_law/LEC_12_1.png" alt="node" width=80%/>
 </p>
 
 
@@ -119,7 +119,7 @@ A circuit `loop` is a collection of `branches` that form a ***closed path*** - r
 
 
 <p align="center">
-  <IMG src="./assets/w3-kirchhoffs_law/example15.png" alt="serial circuits" width=50%/>
+  <IMG src="./assets/w3-kirchhoffs_law/LEC_151_1.png" alt="serial circuits" width=50%/>
 </p>
 
 
@@ -131,7 +131,7 @@ A circuit `loop` is a collection of `branches` that form a ***closed path*** - r
 
 
 <p align="center">
-  <IMG src="./assets/w3-kirchhoffs_law/example16.png" alt="parallel circuits" width=40%/>
+  <IMG src="./assets/w3-kirchhoffs_law/LEC_152_1.png" alt="parallel circuits" width=40%/>
 </p>
 
 
@@ -173,7 +173,7 @@ $$R_T = R_{ab} = R_1 + R_2 + \cdots + R_N}$$
 
 
 <p align="center">
-  <IMG src="./assets/w3-kirchhoffs_law/example21.png" alt="KVL" width=80%/>
+  <IMG src="./assets/w3-kirchhoffs_law/LEC_21_1.png" alt="KVL" width=80%/>
 </p>
 
 
@@ -201,7 +201,7 @@ $$R_T = R_{ab} = R_1 + R_2 + \cdots + R_N}$$
 
 
 <p align="center">
-  <IMG src="./assets/w3-kirchhoffs_law/example22.png" alt="KCL" width=80%/>
+  <IMG src="./assets/w3-kirchhoffs_law/LEC_22_1.png" alt="KCL" width=80%/>
 </p>
 
 
