@@ -3,6 +3,29 @@
 
 **Reference:** Chapter 6, 7 of [Introductory Circuit Analysis](/server/archive/circuits/introductory.epub)
 
+<details>
+  <summary><b>Table of Contents<b/></summary>
+
+- [Lecture 3 - Electric Circuit & Kirchhoff's Laws](#lecture-3---electric-circuit--kirchhoffs-laws)
+  - [1. Electric Circuits](#1-electric-circuits)
+    - [1.1 Circuit Devices (Electric circuit)](#11-circuit-devices-electric-circuit)
+      - [1.1.1 Electrical Sources](#111-electrical-sources)
+      - [1.1.2 Electrical Devices](#112-electrical-devices)
+    - [1.2 Circuit Node (point)](#12-circuit-node-point)
+    - [1.3 Circuit Branch](#13-circuit-branch)
+    - [1.4 Circuit Loop](#14-circuit-loop)
+    - [1.5 Serries and Parallel Circuits](#15-serries-and-parallel-circuits)
+      - [1.5.1 Serial Circuits](#151-serial-circuits)
+      - [1.5.2 Parallel Circuits](#152-parallel-circuits)
+      - [1.5.3 Resistor in Series](#153-resistor-in-series)
+  - [2. Kirchhoff's Law](#2-kirchhoffs-law)
+    - [2.1 Kirchhoff's Voltage Law (KVL)](#21-kirchhoffs-voltage-law-kvl)
+    - [2.2 Kirchhoff's Current Law (KCL)](#22-kirchhoffs-current-law-kcl)
+- [Footnote](#footnote)
+
+</details>
+
+
 ## 1. Electric Circuits
 
 
