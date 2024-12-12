@@ -143,7 +143,7 @@ A circuit `loop` is a collection of `branches` that form a ***closed path*** - r
 [^1] *Resistor in series*
 [^1]:Resistor in series
 
-$$R_T = R_{ab} = R_1 + R_2 + \cdots + R_N}$$
+$$R_T = R_{ab} = R_1 + R_2 + \cdots + R_N$$
 
   - $R_T$ is the **total resistance**
   - $R_i (i = 1, 2, \cdots , N)$ is the resistance of the $i^{th}$ `branch`
