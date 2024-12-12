@@ -1,7 +1,7 @@
-# 1. Units & Number display
+# Lecture 1 - Electrical Quantities
 
 
-## 1.2 Units of Measurement
+## 0. Units of Measurement
 
 
 - **A dummy case**
@@ -23,7 +23,7 @@
 
 - **System of Units**
 <p align="center">
-  <IMG src="./assets/w1-electrical_quantities/exmaple01.png" alt="Unit system" width=80%/>
+  <IMG src="./assets/LEC_01/LEC_12_1.png" alt="Unit system" width=80%/>
 </p>
 
 
@@ -31,21 +31,21 @@
 > This course uses **The SI unit measurement system**
 
 
-# 2. Electrical Quantities
+## 1. Electrical Quantities
 
 
-## 2.1 Atom and Electric charge
+### 1.1 Atom and Electric charge
 
 
-### 2.1.1 Atomic structure
+#### 1.1.1 Atomic structure
 
 
 <p align="center">
-  <IMG src="./assets/w1-electrical_quantities/example11.png" alt="atomic structure" width=80%/>
+  <IMG src="./assets/LEC_01/LEC_211_1.png" alt="atomic structure" width=80%/>
 </p>
 
 
-### 2.1.2 Electrical Charges
+#### 1.1.2 Electrical Charges
 
 
 > [!NOTE]
@@ -64,7 +64,7 @@
 - **All charges are multiples of the minimal charge**
 
 
-#### 2.1.2.1 Electric Field
+##### 1.1.2.1 Electric Field
 
 
 - A charge `q` is creates **electric field** $|\vec{E}| = k \cdot \frac{q}{r^2}$ 
@@ -73,7 +73,7 @@
 - **Negative charges:** $|\vec{E}|$ is from `infinity` to the `charge`
 
 
-#### 2.1.2.2 Electric Force
+##### 1.1.2.2 Electric Force
 
 
 `Electric fields` ($\vec{E}$) exert `Electric forces` ($\vec{F}$) on other `charge` (q)
@@ -91,7 +91,7 @@ Where:
 - r is distance between them (m)
 
 
-#### 2.1.2.3 Electric Potential
+##### 1.1.2.3 Electric Potential
 
 
 - Electric field has **potential nature**
@@ -107,10 +107,10 @@ $$\Phi_A = \frac{W_A}{q}$$
 When $\Phi_A$ is electric potential (V) at position A, $W_A$ is work (measured in Joules or J) required to move q charges (C) from a reference position to A
 
 
-## 2.2 Voltage and Current
+### 1.2 Voltage and Current
 
 
-### 2.2.1 Voltage
+#### 1.2.1 Voltage
 
 
 - The `electric potential difference` between two points A and B or *voltage between A and B* (denoted as $V_{AB}$) in an electric field is the energy required to move one Coulomb `(+)` charge from B to A
@@ -128,11 +128,11 @@ $$V_{AB} = \frac{W_{B \rightarrow A}}{q}$$
 
 
 <p align="center">
-  <IMG src="./assets/w1-electrical_quantities/example12.png" alt="voltage sources" width=80%/>
+  <IMG src="./assets/LEC_01/LEC_221_1.png" alt="voltage sources" width=80%/>
 </p>
 
 
-### 2.2.2 Current
+#### 1.2.2 Current
 
 - Visit electric-current [note](../../physics/OENG1209/w9-magnetic.md#electric-current) [github](https://github.com/whammou/OENG1209/blob/main/w9-magnetic.md#electric-current)
 
@@ -156,7 +156,7 @@ Where:
 > If the potential difference alternates over time `=>` **AC** `voltage`
 
 
-## 2.3 Electrical Resistance
+### 1.3 Electrical Resistance
 
 
 - The amount that an object impedes the `electric current` running through it is called **electrical resistance**
@@ -167,14 +167,14 @@ Where:
 - The unit of resistance is **Ohm** ($\Omega$)
 
 
-### 2.3.1 Resistance of an electrical wire
+#### 1.3.1 Resistance of an electrical wire
 
 
 - The electrical resistance of an electrical wire:
 
 
 <p align="center">
-  <IMG src="./assets/w1-electrical_quantities/example13.png" alt="resistance in wire" width=80%/>
+  <IMG src="./assets/LEC_01/LEC_231_1.png" alt="resistance in wire" width=80%/>
 </p>
 
 
@@ -189,11 +189,11 @@ Where:
 > The resistivity of material varies temperatures
 
 
-### 2.3.2 Material Resistivity
+#### 1.3.2 Material Resistivity
 
 
 <p align="center">
-  <IMG src="./assets/w1-electrical_quantities/example14.png" alt="resistivity" width=80%/>
+  <IMG src="./assets/LEC_01/LEC_232_1.png" alt="resistivity" width=80%/>
 </p>
 
 

@@ -1,4 +1,4 @@
-* Introduction to Electrical & Electronic Engineering
+* Introduction to Electrical & Electronic Engineering :COURSE:
 
 - Lectures are taught by [[mailto:minh.buixuan@rmit,edu,vn][Dr. Bui Xuan Minh]]. The ultimate objectives of the course are: to introduce fundamental principles and concepts of electrical and electronics circuits; to equip knowledge and experience to analyze and build fundamental electrical and electronic circuits for practical application
 
@@ -16,6 +16,6 @@ Study the main electrical concepts and practical use of electrical components
 
 ** Lecture 3: Electrical Circuit and Kirchhoff's Laws
 
-[[./w3-kirchoffs_law.md][Lecture Note]]
+[[./LEC_03.md][Lecture Note]]
 
 Main concepts of electric circuit and the Kirchhoff's laws to analyze the electric circuits
