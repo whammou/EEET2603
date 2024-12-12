@@ -4,7 +4,7 @@
 **Reference:** Chapter 6, 7 of [Introductory Circuit Analysis](/server/archive/circuits/introductory.epub)
 
 <details>
-  <summary><b>Table of Contents<b/></summary>
+  <summary><b>Table of Contents</b></summary>
 
 - [Lecture 3 - Electric Circuit & Kirchhoff's Laws](#lecture-3---electric-circuit--kirchhoffs-laws)
   - [1. Electric Circuits](#1-electric-circuits)
