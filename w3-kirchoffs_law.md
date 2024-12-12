@@ -1,7 +1,9 @@
 # Lecture 3 - Electric Circuit & Kirchhoff's Laws
 
 
-**Reference:** Chapter 6, 7 of [Introductory Circuit Analysis](/server/archive/circuits/introductory.epub)
+- **Reference:** Chapter 6, 7 of [Introductory Circuit Analysis](/server/archive/circuits/introductory.epub)
+- **Recap:** [Power, Energy, and Ohm's Law](./w2-ohms_law.md#4-summary)
+
 
 <details>
   <summary><b>Table of Contents</b></summary>
