@@ -4,13 +4,13 @@
 
 ** Lecture 1: Electrical Quantities
 
-[[./w1-electrical_quantities.md][Lecture Note]]
+[[./LEC_01.md][Lecture Note]]
 
 Introduce to the course with the course learning outcome, topics to be covered, course leaning activities. We also start the first topic relate to fundamental electric Quantities
 
 ** Lecture 2: Power, Energy, Resistor & Ohm's Law
 
-[[./w2-ohms_law.md][Lecture Note]]
+[[./LEC_02.md][Lecture Note]]
 
 Study the main electrical concepts and practical use of electrical components
 
