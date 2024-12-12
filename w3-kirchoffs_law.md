@@ -84,24 +84,74 @@ A `circuit branch` is a `circuit device` between two nodes
 
 A circuit `loop` is a collection of `branches` that form a ***closed path*** - returning to the same `node` without going through any other `nodes` or `branches`
 
-# 2. Kirchhoff's Law
+
+### 1.5 Serries and Parallel Circuits
 
 
-## Kirchhoff's Voltage Law (KVL)
+#### 1.5.1 Serial Circuits
 
 
-- `KVL` is the law of conservation of electrical energy:
+- Two devices are ***in series*** if they have **one** `node` in common and have the **same** `current`
+- ***A series network has*** several devices **in series** having the same `current` running through them
+
+
+<p align="center">
+  <IMG src="./assets/w3-kirchhoffs_law/example15.png" alt="serial circuits" width=50%/>
+</p>
+
+
+#### 1.5.2 Parallel Circuits
+
+
+- Two devices are ***in parallel*** if they have **two** `nodes` in common
+- ***A parallel circuit has*** several devices **in parallel** having the same `voltage` across their terminals
+
+
+<p align="center">
+  <IMG src="./assets/w3-kirchhoffs_law/example16.png" alt="parallel circuits" width=40%/>
+</p>
+
+
+#### 1.5.3 Resistor in Series
+
+
+- The total **resistance** of a ***series configuration*** is the sum of the `resistance` of each `branch`
+
+[^1] *Resistor in series*
+[^1]:Resistor in series
+
+$$R_T = R_{ab] = R_1 + R_2 + \cdots + R_N}$$
+
+  - $R_T$ is the **total resistance**
+  - $R_i (i = 1, 2, \cdots , N)$ is the resistance of the $i^{th}$ `branch`
+
+
+## 2. Kirchhoff's Law
+
+
+**Kirchhoff's circuit laws** are two **equalities** that deal with the `current` and `voltage` in the `lumped element model` of a electrical circuit - [Wikipedia](https://en.wikipedia.org/wiki/Lumped_element_model)
+
+
+### 2.1 Kirchhoff's Voltage Law (KVL)
+
+
+`KVL` is the law of conservation of `electrical energy`:
   - **Electrical energy** can neither be *created* nor *destroyed*. Only *transferred* from one point to another
   - The **algebraic sum** $\sum$ of `voltages` around a `loop` is ***zero***
   - In a `loop`, for certain direction:
 
-   [^1] *Kirchhoff's law*
-   [^1]:Kirchhoff's law
+  [^2] *Kirchhoff's Voltage law*
+  [^2]:Kirchhoff's Voltage law
 
-    $$\sum voltage rise - \sum voltage drop = 0$$
+  $$\sum voltage rise - \sum voltage drop = 0$$
 
   - **Voltage rise:** Electrical potential (respect to ground) changes from `(-)` to `(+)`
   - **Voltage drop:** Electrical potential (respect to ground) changes from `(+)` to `(-)`
+
+
+<p align="center">
+  <IMG src="./assets/w3-kirchhoffs_law/example21.png" alt="KVL" width=80%/>
+</p>
 
 
 > [!TIP]
@@ -113,10 +163,31 @@ A circuit `loop` is a collection of `branches` that form a ***closed path*** - r
 >     $$E - V_1 - V_2 = 0$$
 
 
-## Kirchhoff's Current Law (KCL)
+### 2.2 Kirchhoff's Current Law (KCL)
 
 
+`KCL` is the conservation of `charge`:
+  - **charges** can neither be *created* nor *destroyed*, only ***move from*** one to another point
+  - The **algebraic sum** $\sum$ of all `currents` entering a `node` is **equal** to the um of all `currents` leaving the `node`
+  - `KCL` holds for every `node` in a network at **every point in time**
 
+  [^3] *Kirchhoff's Current Law*
+  [^3]:Kirchhoff's Current Law
+
+  $$\sum currentsin - \sum currentsout = 0$$
+
+
+<p align="center">
+  <IMG src="./assets/w3-kirchhoffs_law/example22.png" alt="KCL" width=80%/>
+</p>
+
+
+> [!TIP]
+> To apply KCL:
+> - Select the node and **identify/assume** all `currents` entering or leaving that `node`
+> - Write the KCL:
+> 
+>     $$I_1 + I_2 + I_3 - I_4 i I_5 = 0$$
 
 
 # Footnote
