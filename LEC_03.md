@@ -190,8 +190,8 @@ $$\frac{1}{R_T} = \frac{1}{R_{AB}} = \frac{1}{R_1} + \frac{1}{R_2} + /cdots + \f
   - The **algebraic sum** $\sum$ of `voltages` around a `loop` is ***zero***
   - In a `loop`, for certain direction:
 
-  [^2] *Kirchhoff's Voltage law*
-  [^2]:Kirchhoff's Voltage law
+  [^3] *Kirchhoff's Voltage law*
+  [^3]:Kirchhoff's Voltage law
 
   $$\sum voltage rise - \sum voltage drop = 0$$
 
@@ -221,8 +221,8 @@ $$\frac{1}{R_T} = \frac{1}{R_{AB}} = \frac{1}{R_1} + \frac{1}{R_2} + /cdots + \f
   - The **algebraic sum** $\sum$ of all `currents` entering a `node` is **equal** to the um of all `currents` leaving the `node`
   - `KCL` holds for every `node` in a network at **every point in time**
 
-  [^3] *Kirchhoff's Current Law*
-  [^3]:Kirchhoff's Current Law
+  [^4] *Kirchhoff's Current Law*
+  [^4]:Kirchhoff's Current Law
 
   $$\sum currentsin - \sum currentsout = 0$$
 
