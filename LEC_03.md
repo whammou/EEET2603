@@ -19,7 +19,8 @@
     - [1.5 Serries and Parallel Circuits](#15-serries-and-parallel-circuits)
       - [1.5.1 Serial Circuits](#151-serial-circuits)
       - [1.5.2 Parallel Circuits](#152-parallel-circuits)
-      - [1.5.3 Resistor in Series](#153-resistor-in-series)
+      - [1.5.3 Resistors in Series](#153-resistors-in-series)
+      - [1.5.4 Resistors in Parallel](#154-resistors-in-parallel)
   - [2. Kirchhoff's Law](#2-kirchhoffs-law)
     - [2.1 Kirchhoff's Voltage Law (KVL)](#21-kirchhoffs-voltage-law-kvl)
     - [2.2 Kirchhoff's Current Law (KCL)](#22-kirchhoffs-current-law-kcl)
@@ -137,18 +138,42 @@ A circuit `loop` is a collection of `branches` that form a ***closed path*** - r
 </p>
 
 
-#### 1.5.3 Resistor in Series
+#### 1.5.3 Resistors in Series
+
+
+<p align="center">
+  <IMG src="./assets/LEC_03/LEC_153_1.png" alt="resistors in series" width=50%/>
+</p>
 
 
 - The total **resistance** of a ***series configuration*** is the sum of the `resistance` of each `branch`
 
-[^1] *Resistor in series*
-[^1]:Resistor in series
+[^1] *Resistors in series*
+[^1]:Resistors in series
 
 $$R_T = R_{ab} = R_1 + R_2 + \cdots + R_N$$
 
   - $R_T$ is the **total resistance**
   - $R_i (i = 1, 2, \cdots , N)$ is the resistance of the $i^{th}$ `branch`
+
+
+#### 1.5.4 Resistors in Parallel
+
+
+<p align="center">
+  <IMG src="./assets/LEC_03/LEC_154_1.png" alt="resistors in parallel" width=50%/>
+</p>
+
+
+- The total **resistance** of a ***parallel configuration*** circuit is inverse sum of the `resistance` of each `branch`
+
+[^2] *Resistors in parallel*
+[^2]:Resistors in parallel
+
+$$\frac{1}{R_T} = \frac{1}{R_{AB}} = \frac{1}{R_1} + \frac{1}{R_2} + /cdots + \frac{1}{R_N}$$
+
+  - $R_T$ is the **total resistance**
+  - $R_i (i = 1, 2, /cdots , N)$ is the resistance of the $i^{th}$ `branch`
 
 
 ## 2. Kirchhoff's Law
