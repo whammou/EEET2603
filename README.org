@@ -19,3 +19,9 @@ Study the main electrical concepts and practical use of electrical components
 [[./LEC_03.md][Lecture Note]]  [[./LAB_03.md][Lab Note]]
 
 Main concepts of electric circuit and the Kirchhoff's laws to analyze the electric circuits
+
+** Lecture 4: DC Circuit Analysis Methods
+
+[[./LEC_04.md][Lecture Note]] 
+
+Basic methods to analyze the DC circuit including branch current method, source conversion, Thevenin theorems, Superposition theorems and the Maximum transfer

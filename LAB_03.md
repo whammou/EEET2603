@@ -71,7 +71,7 @@ $\left( \frac{1}{1.2 \times 10^3} + \frac{1}{120} + \frac{1}{12} \right)^{-1} = 
 
 On observation, $R_1, R_2, R_3$ is connected in a serial network and thus the `current` flows through them from the source is the same and equals to 1A ($I_S = I_1 = I_2 = I_3 = 1A$)
   1. $V_1 \text{ and } V_2$ can be calculated using the formula [Ohm's law](LEC_02.md#3-ohms-law): $V = I \times R; V_1 = 2V; V_2 = 1V$
-  2. $P_3$ can be calculated using [law of electrical power](LEC_02.md#11-electrical-power): $P_3 = V_3 \times I_3 = R_3 \times I_3^2$ `=>` $V_3 = \frac{P_3}{I_S} = 21 V; R_3 = \frac{P_3}{I_S^2} = 21 \Omega$
+  2. $P_3$ can be calculated using [electrical power formula](LEC_02.md#11-electrical-power): $P_3 = V_3 \times I_3 = R_3 \times I_3^2$ `=>` $V_3 = \frac{P_3}{I_S} = 21 V; R_3 = \frac{P_3}{I_S^2} = 21 \Omega$
   3. $E$ can be calculated using [KVL](LEC_03.md#21-kirchhoffs-voltage-law-kvl) $E = \sum v_i$ thus $E = V_1 + V_2 + V_3 = 24V$
 
 
