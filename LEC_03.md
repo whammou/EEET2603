@@ -2,7 +2,7 @@
 
 
 - **Reference:** Chapter 6, 7 of [Introductory Circuit Analysis](/server/archive/circuits/introductory.epub)
-- **Recap:** [Power, Energy, and Ohm's Law](./w2-ohms_law.md#4-summary)
+- **Recap:** [Power, Energy, and Ohm's Law](./LEC_02.md#summary)
 
 
 <details>
@@ -117,13 +117,31 @@ A circuit `loop` is a collection of `branches` that form a ***closed path*** - r
 #### 1.5.1 Serial Circuits
 
 
+<p align="center">
+  <IMG src="./assets/LEC_03/LEC_151_1.png" alt="serial circuits" width=50%/>
+</p>
+
+
 - Two devices are ***in series*** if they have **one** `node` in common and have the **same** `current`
 - ***A series network has*** several devices **in series** having the same `current` running through them
 
 
-<p align="center">
-  <IMG src="./assets/LEC_03/LEC_151_1.png" alt="serial circuits" width=50%/>
-</p>
+> [!NOTE]
+> - The `current` through each `resistor` is the same $I = I_1 = I_2 = I_2$
+> - The **sum** of the `voltage` applied to the circuit by the `source` and the **potential drops** across the individual `resistors` around a `loop` should be equal to ***zero*** $\sum^N_{i=1} v_i = 0$
+
+
+[^3] This equation is referred to as [Kirchhoff's loop law](#21-kirchhoffs-voltage-law-kvl)
+
+$$V - V_1 - V_2 - V_3 = 0$$
+
+$$V = V_1 + V_2 + V_3$$
+
+$$V = IR_1 + IR_2 + IR_3$$
+
+Solving for $I$
+
+$$I = \frac{V}{R_1 + R_2 + R_3} = \frac{V}{R_S}$$
 
 
 #### 1.5.2 Parallel Circuits
