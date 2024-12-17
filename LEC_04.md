@@ -26,4 +26,27 @@ A circuit that contains only a pure resistance (ohms) in an AC circuit is called
 </details>
 
 
+## 2. Voltage Divider Rule
+
+
+For the **series network** between two `nodes`, voltage of every resistor is calculated:
+
+[^1] *Voltage Divider*
+[^1]:Voltage Divider
+
+$$V_{Ri} = V_s \times \left ( \frac{R_i}{R_T} \right )k$$
+
+  - $V_S$ is the voltage between two nodes
+  - $R_i$ is the resistance of resistor $i$
+  - $R_T$ is the total resistance of the series network
+
+
+> [!NOTE]
+> Polarity of $V_{Ri}$ and $V_S$ are the same
+
+
+
+
+
+# Footnote
 
