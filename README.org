@@ -25,3 +25,7 @@ Main concepts of electric circuit and the Kirchhoff's laws to analyze the electr
 [[./LEC_04.md][Lecture Note]] 
 
 Basic methods to analyze the DC circuit including branch current method, source conversion, Thevenin theorems, Superposition theorems and the Maximum transfer
+
+*** Finish Header 3 example
+
+- *Goal(s):* finish header 3 example assets for github view

@@ -72,7 +72,7 @@ $$I_{Ri} = I_S \times \left(\frac{R_T}{R_i} \right)$$
 
 <details>
   <summary><b>Example</b></summary>
-  <IMG src="./assets/LEC_04/LEC_2_2.svg" alt="current divider" width=80%/>
+  <IMG src="./assets/LEC_04/SCR_2_2.png" alt="current divider" width=80%/>
 </details>
 
 
@@ -85,7 +85,7 @@ An ideal sources is powerful enough to maintain constant voltage / current as it
 ### 4.1 Ideal DC Voltage Source
 
 
-An **ideal** *DC voltage source* is powerful enough to maintain constant `voltage` at its output regardless of the `current` flowing through the `source`
+An **ideal DC voltage source** is powerful enough to maintain constant `voltage` at its output regardless of the `current` flowing through the `source`
 
 
 > [!IMPORTANT] 
@@ -100,7 +100,7 @@ An **ideal** *DC voltage source* is powerful enough to maintain constant `voltag
 ### 4.2 Practical DC Voltage Source
 
 
-A **practical** voltage source consists of an ideal source *in series with* the source resistance $R_S$
+A **practical voltage source** consists of an [ideal source](#41-ideal-dc-voltage-sources) *in series with* the source `resistance` $R_S$
 
 
 <p align="center">
@@ -109,7 +109,36 @@ A **practical** voltage source consists of an ideal source *in series with* the 
 
 
 > [!NOTE]
-> For an ideal voltage source the $R_S = 0 \Omega$ 
+> For an **ideal voltage source** the value of $R_S = 0 \Omega$ 
+
+
+### 4.3 Ideal DC Current Sources
+
+
+An **ideal Current Source** is powerful enough to maintain constant `current` through it regardless of the `voltage` across the `source`
+
+
+> [!IMPORTANT]
+> Two current sources of different current rating cannot be placed in series (violation of [KCL](./LEC_03.md#22-kirchhoffs-current-law-kcl))
+
+
+<p align="center">
+  <IMG src="./assets/LEC_04/SCR_43_1.png" alt="ideal current source" width=80%/>
+</p>
+
+### 4.4 Practical DC Current Sources
+
+
+A **practical current source** consists of an [ideal source](#43-ideal-dc-current-sources) in *parallel* with a source `resistance` $R_S$
+
+
+<p align="center">
+  <IMG src="./assets/LEC_04/SCR_44_1.png" alt="pratical current source" width=80%/>
+</p>
+
+
+> [!NOTE]
+> For **ideal current source** the value of `resistance` $R_S =0 \Omega$
 
 
 # Footnote
