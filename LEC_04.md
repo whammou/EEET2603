@@ -59,7 +59,7 @@ For the **parallel network** between two `nodes`, `current` of every `resistor` 
 [^2] *Current Divider Rule*
 [^2]:Current Divider Rule
 
-$$I_{Ri} = I_S \times \left(\frac{R_T}{R_i} \right)$$
+$$I_{Ri} = I_S \times \left(\frac{R_T}{R_i} \right) = \left(\frac{R_i}{R_T} \right)^{-1}$$
 
   - $I_S$ is the total `current` going to the *parallel network*
   - $R_i$ is the **resistance** of `resistor` **i**
@@ -72,7 +72,7 @@ $$I_{Ri} = I_S \times \left(\frac{R_T}{R_i} \right)$$
 
 <details>
   <summary><b>Example</b></summary>
-  <IMG src="./assets/LEC_04/SCR_2_2.png" alt="current divider" width=80%/>
+  <IMG src="./assets/LEC_04/LEC_3_1.svg" alt="current divider" width=80%/>
 </details>
 
 
