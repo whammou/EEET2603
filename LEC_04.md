@@ -79,7 +79,9 @@ $$I_{Ri} = I_S \times \left(\frac{R_T}{R_i} \right) = \left(\frac{R_i}{R_T} \rig
 ## 4. Voltage and Current Sources
 
 
-An ideal sources is powerful enough to maintain constant voltage / current as its output regardless of the flow from the source
+The ideal source behaviours:
+- It will always produce the same current/voltage regardless of its load
+- This expectation is not realistic
 
 
 ### 4.1 Ideal DC Voltage Source
@@ -138,7 +140,29 @@ A **practical current source** consists of an [ideal source](#43-ideal-dc-curren
 
 
 > [!NOTE]
-> For **ideal current source** the value of `resistance` $R_S =0 \Omega$
+> For **ideal current source** the value of `resistance` $R_S = \infty \Omega$
+
+
+## 5. Source Conversion
+
+
+- Any `voltage source` $V_S$ in **series** with a `resistor` $R_S$ can be converted to an equivalent `current source` $I_S$ in **parallel** to the `resistor` $R_S$
+- `Resistor` is the **same** in both cases
+- $V_S$ and $I_S$ relationship: 
+
+[^3] *Source Conversion*
+[^3]:Source Conversion
+
+$${V_S = R_{S} I_S}$$
+
+
+> [!NOTE]
+> **Direction** of the `current source` us from **low** potential `(-)` terminal to **high** potential `(+)` terminal of the `voltage source`
+
+
+<p align="center">
+  <IMG src="./assets/LEC_04/SCR_5_1.png" alt="source conversion" width=80%/>
+</p>
 
 
 # Footnote

@@ -172,7 +172,7 @@ Resistors are characterized by:
 
 Ohm's law states that:
 
-[^3]
+[^3] *Ohm's Law*
 [^3]:Ohm's law
 
 $$I = \frac{V}{R}$$
