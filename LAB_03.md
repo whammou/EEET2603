@@ -7,7 +7,7 @@ Find the total resistance $R_T$ for each of the following circuits:
 
 
 <p align="center">
-  <IMG src="./assets/LAB-03/LAB_1_1 .svg" alt="question1" width=50%/>
+  <IMG src="./assets/LAB_03/LAB_1_1 .svg" alt="question1" width=50%/>
 </p>
 
 
@@ -15,7 +15,7 @@ $R_T = T_{AB} = R_1 + R_2 + R_4 = 1.2 \Omega + 2.7 \Omega + 8.2 \Omega = 12.1 \O
 
 
 <p align="center">
-  <IMG src="./assets/LAB-03/LAB_1_2.svg" alt="parallel" width=50%/>
+  <IMG src="./assets/LAB_03/LAB_1_2.svg" alt="parallel" width=50%/>
 </p>
 
 
@@ -28,7 +28,7 @@ $\left( \frac{1}{1.2 \times 10^3} + \frac{1}{120} + \frac{1}{12} \right)^{-1} = 
 
 
 <p align="center">
-  <IMG src="./assets/LAB-03/SCR_2_1.png" alt="question 2" width=50%/>
+  <IMG src="./assets/LAB_03/SCR_2_1.png" alt="question 2" width=50%/>
 </p>
 
 
@@ -63,7 +63,7 @@ $\left( \frac{1}{1.2 \times 10^3} + \frac{1}{120} + \frac{1}{12} \right)^{-1} = 
 
 
 <p align="center">
-  <IMG src="./assets/LAB-03/LAB_3_1.svg" alt="question3" width=80%/>
+  <IMG src="./assets/LAB_03/LAB_3_1.svg" alt="question3" width=80%/>
 </p>
 
 
@@ -79,7 +79,7 @@ On observation, $R_1, R_2, R_3$ is connected in a serial network and thus the `c
 
 
 <p align="center">
-  <IMG src="./assets/LAB-03/SCR_4_1.png" alt="problem4" width=80%/>
+  <IMG src="./assets/LAB_03/SCR_4_1.png" alt="problem4" width=80%/>
 </p>
 
 
