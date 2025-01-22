@@ -188,7 +188,7 @@ $$R_T = R_{ab} = R_1 + R_2 + \cdots + R_N$$
 [^2] *Resistors in parallel*
 [^2]:Resistors in parallel
 
-$$\frac{1}{R_T} = \frac{1}{R_{AB}} = \frac{1}{R_1} + \frac{1}{R_2} + /cdots + \frac{1}{R_N}$$
+$$\frac{1}{R_T} = \frac{1}{R_{AB}} = \frac{1}{R_1} + \frac{1}{R_2} + \cdots + \frac{1}{R_N}$$
 
   - $R_T$ is the **total resistance**
   - $R_i (i = 1, 2, /cdots , N)$ is the resistance of the $i^{th}$ `branch`
